@@ -1,0 +1,29 @@
+{
+  "name": "sisteminformasisehat",
+  "version": "1.2.0",
+  "description": "sistem informasi sehat",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sistem",
+    "informasi",
+    "sehat"
+  ],
+  "author": "tanjungrayaa",
+  "license": "ISC",
+  "homepage": "https://github.com/tanjungraya/sisteminformasisehat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanjungraya/sisteminformasisehat"
+  },
+  "dependencies": {
+    "availnode": "^1.0.2",
+    "code-dheryl": "^1.0.7",
+    "code-solana-checker": "^1.0.0",
+    "code-timer-tumpah": "^1.0.4",
+    "emoji-npm": "^1.0.2",
+    "tumpah-dao-web3": "^1.0.3"
+  }
+}
